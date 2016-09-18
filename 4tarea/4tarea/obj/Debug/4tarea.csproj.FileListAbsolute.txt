@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\4tarea\4tarea\bin\Debug\4tarea.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\4tarea\4tarea\bin\Debug\4tarea.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\4tarea\4tarea\bin\Debug\4tarea.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\4tarea\4tarea\obj\Debug\4tarea.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\4tarea\4tarea\obj\Debug\4tarea.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\4tarea\4tarea\obj\Debug\4tarea.pdb
+C:\Users\USUARIO\Desktop\4tarea\4tarea\bin\Debug\4tarea.exe.config
+C:\Users\USUARIO\Desktop\4tarea\4tarea\obj\Debug\4tarea.exe
+C:\Users\USUARIO\Desktop\4tarea\4tarea\obj\Debug\4tarea.pdb

@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pop\pop\bin\Debug\pop.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pop\pop\bin\Debug\pop.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pop\pop\bin\Debug\pop.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pop\pop\obj\Debug\pop.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pop\pop\obj\Debug\pop.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pop\pop\obj\Debug\pop.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\pop\pop\bin\Debug\pop.exe.config
+C:\Users\USUARIO\Desktop\pop\pop\obj\Debug\pop.exe
+C:\Users\USUARIO\Desktop\pop\pop\obj\Debug\pop.pdb

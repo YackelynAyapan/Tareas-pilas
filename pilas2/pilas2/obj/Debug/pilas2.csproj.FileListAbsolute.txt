@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pilas2\pilas2\bin\Debug\pilas2.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pilas2\pilas2\bin\Debug\pilas2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pilas2\pilas2\bin\Debug\pilas2.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pilas2\pilas2\obj\Debug\pilas2.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pilas2\pilas2\obj\Debug\pilas2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\pilas2\pilas2\obj\Debug\pilas2.pdb
+C:\Users\USUARIO\Desktop\pilas2\pilas2\bin\Debug\pilas2.exe.config
+C:\Users\USUARIO\Desktop\pilas2\pilas2\obj\Debug\pilas2.exe
+C:\Users\USUARIO\Desktop\pilas2\pilas2\obj\Debug\pilas2.pdb

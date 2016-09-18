@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\letra al revez\letra al revez\bin\Debug\letra al revez.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\letra al revez\letra al revez\bin\Debug\letra al revez.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\letra al revez\letra al revez\bin\Debug\letra al revez.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\letra al revez\letra al revez\obj\Debug\letra al revez.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\letra al revez\letra al revez\obj\Debug\letra al revez.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\letra al revez\letra al revez\obj\Debug\letra al revez.pdb
